@@ -48,6 +48,6 @@ export default defineConfig({
         },
     },
     build: {
-        outDir: 'public/dist', // Ensure output directory is public/dist
+        outDir: 'dist',
     },
 });
